@@ -1,3 +1,5 @@
 Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um bom tempo.
 
-Segunda linha adicionada posteriorment
+Segunda linha adicionada posteriormente
+
+Adicionando terceira linha para dar conflito no merge.
