@@ -10,4 +10,4 @@ Testando Fetch
 
 Alteracao no github.com, resolvido conflito de pull.
 
-Rebase interativo.
+Rebase interativo, mais alteracao.
