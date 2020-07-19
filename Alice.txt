@@ -7,3 +7,5 @@ Adicionando terceira linha para dar conflito no merge.
 Adicionando Quarta linha para testar rebase.
 
 Testando Fetch
+
+Conflito no pull.
